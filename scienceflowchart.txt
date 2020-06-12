@@ -1,0 +1,4 @@
+scienceflowchart
+ ![A flow chart shows the steps in the scientific method. In step 1, an observation is made. In step 2, a question is asked about the observation. In step 3, an answer to the question, called a hypothesis, is proposed. In step 4, a prediction is made based on the hypothesis. In step 5, an experiment is done to test the prediction. In step 6, the results are analyzed to determine whether or not the hypothesis is correct. If the hypothesis is incorrect, another hypothesis is made. In either case, the results are reported.](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/resources/9aa61725c0d4e976f8913875044720987232aa1a)
+
+Figure 1.6  The scientific method consists of a series of well-defined steps. If a hypothesis is not supported by experimental data, one can propose a new hypothesis.

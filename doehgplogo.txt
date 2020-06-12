@@ -1,0 +1,5 @@
+doehgplogo
+
+ ![The logo for a program within the international Human Genome Project is shown, depicting a human being inside a D N A double helix. The words chemistry, biology, physics, ethics, informatics, and engineering surround the circular image.](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/resources/ee9122ab3b2c6a5533420999dc05161786f17e98)
+
+Figure 1.9  The Human Genome Project was a 13-year collaborative effort among researchers working in several different science fields. Researchers completed the project, which sequenced the entire human genome, in 2003. (credit: the U.S. Department of Energy Genome Programs ([http://genomics.energy.gov](http://openstax.org/l/genomics_gov))

@@ -1,0 +1,25 @@
+;CAPTION
+
+
+CREDITS: 
+/footnotesize
+
+; "Title" by Author, Project, Organization
+
+; Image from ``Biology 2e,'' OpenStax.
+
+;LICENSE 
+; Licensed under CC BY    ; Attribution
+; Licensed under CC BY-SA ; Attribution-ShareAlike
+; Reused from a work licensed under CC BY-SA.
+; Public Domain, CC0
+; Public Domain
+; No known restrictions for reuse
+
+/normalsize
+
+
+;OTHER----------------------------------------
+; URL
+; ALT 
+; Markdown%  

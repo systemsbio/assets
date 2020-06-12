@@ -1,0 +1,31 @@
+
+%CAPTION
+Formerly called blue-green algae, these (a) cyanobacteria, magnified 300x under a light microscope, are some of Earth’s oldest life forms. 
+These (b) stromatolites along the shores of Lake Thetis in Western Australia are ancient structures formed by layering cyanobacteria in shallow waters. 
+ 
+
+/footnotesize
+Credits: 
+
+%; "Title" by Author, Project, Organization
+Image from ``Biology 2e,'' OpenStax.
+a: Modification of work by NASA; 
+b: Modification of work by Ruth Ellison; 
+ Scale-bar data from Matt Russell.
+
+%;LICENSE 
+%;Licensed under CC BY    ; Attribution
+%;Licensed under CC BY-SA ; Attribution-ShareAlike
+Reused from a work licensed under CC BY-SA.
+%;Public Domain, CC0
+%;Public Domain
+%;No known restrictions for reuse
+
+/normalsize
+
+
+%;OTHER----------------------------------------%
+%;URL
+%;ALT Photo A depicts round colonies of blue-green algae. Each algae cell is about 5 microns across. Photo B depicts round fossil  structures called stromatalites along a watery shoreline.
+%;HTML
+%; Markdown%![Photo A depicts round colonies of blue-green algae. Each algae cell is about 5 microns across. Photo B depicts round fossil structures called stromatalites along a watery shoreline.](../../assets/cd6954d7474f965db1a027a0fc79b94fd4759f5 "Alternate Title")

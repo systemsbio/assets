@@ -1,0 +1,47 @@
+
+
+ 
+ ![Photo depicts E. coli bacteria aggregated together.](chrome-extension://cjedbglnccaioiolemnfhjncicchinao/resources/db218f5f324fad143aff1f7f3a3f2476185ca8c1)
+
+% CAPTION ----------------------
+ _Escherichia coli_ (_E. coli_) bacteria, in this scanning electron micrograph, are normal residents of our digestive tracts that aid in absorbing vitamin K and other nutrients. There is also some evidence that 
+However, virulent strains are sometimes responsible for infectious disease outbreaks.
+Abnormal bacterial flora may also lead to gastrointestinal disease such as Crohn's disease.  
+
+For example, recent news topics include _Escherichia coli_ outbreaks in food from some farms and _Salmonella_ contamination in some poorly-stored peanut butter. 
+These outbreaks link together many different \emph{systems] in biology.
+There is of course the biological systems in humans, in bacteria and the interactions between them.  
+These outbreaks also involve the basic and applied scientific systems of epidemology, public health, food science, and biomedical science.
+The treatment of individuals and the public health mitigation involve the socieconomic systems of health care and agriculture.
+Understanding the origin of the outbreaks and mitigating future risks, mitigation of risk involve social systems, especiallly science-based government regulators and investigatory agencies.  In the United States this would include systems in the US Departent of Agriculture, the Food and Drug Administration, the Centers for Disease Control, state agriculture inspectors, and local food inspectors.
+These tiny bacteria pictured above can be at the center of very large and interwoven sets of complex sytems.    
+
+% CREDITS --------------------- 
+/footnotesize%
+%-------------------------------
+Credits:
+% "Title" by Author, Project, Organization
+
+%Image from ``Biology 2e,'' OpenStax.
+Image originally produced by Eric Erbe, digital colorization by Christopher Pooley, both of US Department of Agriculture.
+(USDA Image Number K11077-1)
+
+% LICENSE ----------------------
+
+% Licensed under CC BY    ; Attribution
+% Licensed under CC BY-SA ; Attribution-ShareAlike
+% Reused from a work licensed under CC BY-SA.
+% Public Domain, CC0
+Public Domain
+% No known restrictions for reuse
+
+%OTHER-------------------------
+%
+% URL  https://www.ars.usda.gov/oc/images/photos/mar05/k11077-1/
+% ALT 
+% HTML
+% Markdown
+%
+%--------------------------------
+/normalsize%
+%--------------------------------
